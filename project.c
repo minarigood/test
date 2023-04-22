@@ -3,7 +3,8 @@
 int main()
 {
 	printf("hello masterbranch\n");
-	printf("omg\n");
+	printf("conflict오류 발생\n");
+>>>>>>> second
 
 	return 0;
 }
