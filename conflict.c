@@ -3,7 +3,8 @@
 int main()
 {
 	printf("hello\n");
-	printf("first\n");
+	printf("master\n");
 
 	return 0;
 }
+
